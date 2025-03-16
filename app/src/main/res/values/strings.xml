@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CV_Builder</string>
+    <string name="fade">FADE</string>
+    <string name="stop_animation">STOP ANIMATION</string>
+</resources>
